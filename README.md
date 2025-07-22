@@ -12,7 +12,7 @@ I'm a computer science student with a passion for full-stack development and AI 
 
 - **Major:** Computer Science
 - **Languages & Tools:** Python, Typescript, ML/DL
-- **Interests:** Artificial Intelligence, Deep Learning, Full-stack Engineering
+- **Interests:** Artificial Intelligence, Deep Learning, Full-stack Development
 
 ---
 
