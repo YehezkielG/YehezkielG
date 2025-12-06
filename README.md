@@ -21,7 +21,7 @@ I'm a computer science student with a passion for full-stack development and AI 
 - [Machine Learning From Scratch](https://github.com/YehezkielG/machine-learning-from-scratch)  
   Building core ML algorithms without libraries, for true understanding.
 
-- [Memory Game with Next.js](https://github.com/YehezkielG/next-memory-game)  
+- [Memory Game with Next.js](https://github.com/YehezkielG/memory-game)  
   A fun and interactive game built with Next.js and modern web technologies.
 
 - [vibeNotes](https://github.com/YehezkielG/vibeNotes)  
