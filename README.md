@@ -1,6 +1,6 @@
 # Hi there, I'm Yehezkiel Haganta 👋
 
-**Computer Science Student | Full-stack Developer & AI Enthusiast**
+**Computer Science Student | Full-stack Development & AI Engineering Enthusiast**
 
 > *I'll do my best*
 
