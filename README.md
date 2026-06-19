@@ -18,8 +18,8 @@ I'm a computer science student with a passion for full-stack development and AI 
 
 ### 🚀 Featured Projects
 
-- [Machine Learning From Scratch](https://github.com/YehezkielG/machine-learning-from-scratch)  
-  Building core ML algorithms without libraries, for true understanding.
+- [Regression from c++](https://github.com/YehezkielG/regression-from-cpp)   
+  Building ML model regression based without libraries, for true understanding.
 
 - [Memory Game with Next.js](https://github.com/YehezkielG/memory-game)  
   A fun and interactive game built with Next.js and modern web technologies.
